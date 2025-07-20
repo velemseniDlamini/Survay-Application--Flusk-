@@ -30,11 +30,8 @@ survey.db       -The database where the form answers are saved |
 Follow these steps to get it up and running:
 
 1. Clone the project
-
-```bash
 git clone https://github.com/velemseniDlamini/Survay-Application--Flusk-.git
 cd Survay-Application--Flusk-
-
 2. Install Flask
 pip install flask
 3. Run the app
