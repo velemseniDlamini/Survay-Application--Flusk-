@@ -31,9 +31,9 @@ Follow these steps to get it up and running:
 
 1. Clone the project
 git clone https://github.com/velemseniDlamini/Survay-Application--Flusk-.git
-cd Survay-Application--Flusk-
-2. Install Flask
+2. cd Survay-Application--Flusk-
+3. Install Flask
 pip install flask
-3. Run the app
+4. Run the app
 python app.py
 
